@@ -1,0 +1,13 @@
+<div class="card">
+  <div class="card-header"><h2 class="text-center"> {{ name }}</h2></div>
+  <p class="text-center"><img src="{{ img }}"/></p>
+
+  <button type="button" class="btn btn-secondary btn-lg btn-block" (click)="onClick()">Moves</button>
+
+  <div class="card-columns">
+     <div class="d-{{state}}" *ngFor="let current of moves">
+        <div class="card bg-dark mt-1"><p class="card-text text-center text-white"> {{current}} </p></div>
+     </div>
+   </div>
+
+</div >

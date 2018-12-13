@@ -1,0 +1,11 @@
+li {
+   list-style-type: none;
+}
+
+@media (min-width: 1px) {
+    .card-columns {
+        -webkit-column-count: 2;
+        -moz-column-count: 2;
+        column-count: 2;
+    }
+}

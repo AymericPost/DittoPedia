@@ -1,0 +1,17 @@
+
+<div class="container">
+   <h1 class="text-center">Pokedex</h1>
+   <div class="card-columns">
+      <pokemon *ngFor="let current of pokeList" [url]=current></pokemon>
+   </div>
+</div>
+
+<div class="container">
+   <div class="row">
+      <div class="col-1"></div>
+      <button type="button" class="btn btn-warning btn-lg col-3" (click)="onPrevious()">Previous</button>
+      <div class="col-4"></div>
+      <button type="button" class="btn btn-warning btn-lg col-3" (click)="onNext()">Next</button>
+      <div class="col-1"></div>
+   </div>
+</div>
