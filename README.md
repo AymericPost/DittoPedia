@@ -1,3 +1,7 @@
+# DittoPedia
+
+Ceci est mon rendu pour un des checkpoint (évaltuation, test individuel) de la Wild Code School. Les consignes sont ci-dessous. Les instructions d'installation et de compilation sont à la fin du document.
+
 # Checkpoint n°2 nov 2018 - **4h**
 
 Pour ce travail tu as 4h devant toi. Ce checkpoint n'est pas un examen, il va nous permettre de valider tes compétences, essaye donc de le faire au maximum de ton côté.
