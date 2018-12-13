@@ -48,3 +48,21 @@ Tu peux aller te désaltérer à la brasserie, tu l'as amplement mérité !!
 **NB : Tu ne dois pas commencer par cette étape... ;)**
 
 ![Good Luck](https://media.giphy.com/media/AC1PtbdsJZyOQ/giphy.gif)
+
+## Installation & execution
+
+### Installation du projet
+
+1. Téléchargez le projet à l'endroit de votre choix
+2. Rendez-vous dans le dossier "pokeAng" du projet téléchargé
+3. Téléchargez les dépendances en entrant dans le termial : 
+- ```npm install``` 
+- ```npm install bootstrap```
+- ```npm install jquery@1.9.1```
+- ```npm install popper.js@^1.14.3```
+
+### Compilation du projet
+
+1. Rendez-vous dans le dossier "pokeAng" du projet téléchargé
+2. Entrez dans le terminal : ```ng serve -o```
+3. Une fenètre de votre navigateur s'ouvrira automatiquement une fois la compilation faite
