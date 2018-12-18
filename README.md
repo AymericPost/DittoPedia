@@ -53,9 +53,9 @@ Tu peux aller te désaltérer à la brasserie, tu l'as amplement mérité !!
 
 ![Good Luck](https://media.giphy.com/media/AC1PtbdsJZyOQ/giphy.gif)
 
-## Installation & execution
+# Installation & execution
 
-### Installation du projet
+## Installation du projet
 
 1. Téléchargez le projet à l'endroit de votre choix
 2. Rendez-vous dans le dossier "pokeAng" du projet téléchargé
@@ -65,7 +65,7 @@ Tu peux aller te désaltérer à la brasserie, tu l'as amplement mérité !!
 - ```npm install jquery@1.9.1```
 - ```npm install popper.js@^1.14.3```
 
-### Compilation du projet
+## Compilation du projet
 
 1. Rendez-vous dans le dossier "pokeAng" du projet téléchargé
 2. Entrez dans le terminal : ```ng serve -o```
